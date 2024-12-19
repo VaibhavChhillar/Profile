@@ -6,9 +6,8 @@
 
 I am a passionate software developer with a keen interest in building efficient and scalable applications. My journey in software development started with a curiosity to understand how things work under the hood and has since evolved into a full-fledged career.
 
-- 🌱 I’m currently learning **[Insert Current Learning Topics]**
-- 💼 I’m currently working at **[Insert Company Name]**
-- 🔭 I’m working on exciting projects like **[Insert Project Names]**
+- 🌱 I’m currently learning **Routing Techniques**
+- 🔭 I’m working on exciting projects like **VANETs**
 - 💬 Ask me about **JavaScript, Python, Web Development, Open Source**
 - 📫 How to reach me: **vaibhav@example.com**
 - ⚡ Fun fact: **I love hiking and exploring nature!**
