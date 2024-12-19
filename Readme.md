@@ -9,7 +9,7 @@ I am a passionate software developer with a keen interest in building efficient 
 - 🌱 I’m currently learning **Routing Techniques**
 - 🔭 I’m working on exciting projects like **VANETs**
 - 💬 Ask me about **JavaScript, Python, Web Development, Open Source**
-- 📫 How to reach me: **vaibhav@example.com**
+- 📫 How to reach me: **15vaibhav07@gmail.com**
 - ⚡ Fun fact: **I love hiking and exploring nature!**
 
 ## Skills
